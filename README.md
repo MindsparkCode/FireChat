@@ -5,6 +5,22 @@ Chat is the style of young people today. Before the chat most people prefer to S
 
 This application I created to show the concept of sending messages using chat applications and the use of two firebase features of the features NoSQL realtime database and Email Authentication
 
+## Demo
+
+<p align="center">
+  <img src="ss/1.png" height="500" alt="" />
+  <img src="ss/2.png" height="500" alt="" />
+  <img src="ss/3.png" height="500" alt="" />
+</p>
+
+<p align="center">
+  <img src="ss/4.png" height="500" alt="" />
+  <img src="ss/5.png" height="500" alt="" />
+</p>
+
+
+
+
 #### Made with &#9829;
 Follow me on instagram :)
 - [@iqbalhood](https://instagram.com/iqbalhood)
